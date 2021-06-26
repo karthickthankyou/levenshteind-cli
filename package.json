@@ -1,0 +1,17 @@
+{
+  "name": "levenshteindistance",
+  "version": "1.0.0",
+  "description": "A simple utility package that tells you a percentage of how well two strings match using ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "levenshtein": "index.js"
+  },
+  "keywords": [
+    "string compare"
+  ],
+  "author": "Karthick Ragavendran",
+  "license": "ISC"
+}
