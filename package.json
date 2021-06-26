@@ -13,5 +13,8 @@
     "string compare"
   ],
   "author": "Karthick Ragavendran",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1"
+  }
 }
